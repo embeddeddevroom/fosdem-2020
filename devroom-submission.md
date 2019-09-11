@@ -5,9 +5,9 @@ Embedded, Mobile and Automotive
 
 ## Elaborate description of proposed devroom (including possible topics)
 
-For a many years the Embedded, Mobile and Automotive devroom was one of 
-the most popular devrooms. Unfortunately, in 2019 the very long tradition 
-of EMA devroom was accidentally discontinued and the room was not 
+For many years the Embedded, Mobile and Automotive devroom was one of 
+the most popular devrooms at FOSDEM. Unfortunately, in 2019 the very long tradition 
+of the EMA devroom was accidentally discontinued and the room was not 
 organized. We aim at resurrecting and continuing this awesome tradition.
 
 The goal of this devroom is to showcase open source from embedded,
@@ -23,7 +23,7 @@ Possible topics include:
 ## Why does it fit FOSDEM?
 
 The Embedded, Mobile and Automotive industries heavily depend on
-FOSS. There are so many related open source projects that it's almost
+FOSS. There are so many related open source projects that it is almost
 impossible to know them all. That's why we believe that knowledge
 sharing is a main goal of this devroom.
 
