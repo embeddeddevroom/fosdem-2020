@@ -1,11 +1,11 @@
 This email is a Call For Participation in the embedded, mobile and
-automotive devroom FOSDEM 2018
+automotive devroom FOSDEM 2020
 
 
-Devroom date: Saturday February 3th and Sunday 4th 2018 in Brussels, Belgium
-CFP deadline: Monday, 11 December 210
+Devroom date: Saturday February 1st in Brussels, Belgium
+CFP deadline: Friday, 6th December 2019
 
-Final speaker confirmation on Friday, December 15th 2018
+Final speaker confirmation on Friday, December 13th 2018
 
 
 CFP Introduction
@@ -34,11 +34,11 @@ definition of "embedded" is elastic.
 CFP Schedule And Submission Details
 -----------------------------------------------------------
 
-Please submit proposals no later than the 11th of December.
+Please submit proposals no later than the 6th of December.
 
-Please use the following URL to submit your talk to FOSDEM 2018
+Please use the following URL to submit your talk to FOSDEM 2020
 
-https://penta.fosdem.org/submission/FOSDEM18
+https://penta.fosdem.org/submission/FOSDEM20
 
 
 and follow the following rules:
@@ -65,7 +65,7 @@ have submitted
        to share.
 
      * Also in the notes field, confirm your availability to speak on
-       Saturday 3 or Sunday 4 February 2018 in Brussels.
+       Saturday 1st of February 2020 in Brussels.
 
      * Last but not least, make sure you have up to date contact info.
 
