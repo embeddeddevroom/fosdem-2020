@@ -44,8 +44,8 @@ https://penta.fosdem.org/submission/FOSDEM20
 and follow the following rules:
 
      * If you do not have an account yet, please create one, if you
-have submitted
-       a talk in one of the previous years, please re-use your old account.
+       have submitted a talk in one of the previous years, please re-use
+       your old account.
 
      * Select as the Track "Embedded, mobile and automotive devroom"
 
@@ -77,5 +77,7 @@ Subscribe here: https://lists.fosdem.org/listinfo/embedded-devroom
 About the devroom organizers
 --------------------------------------------------
 
-The co-organizers of the FOSDEM 2018 Embedded devroom are
+The co-organizers of the FOSDEM 2020 Embedded devroom are
 (in alphabetical order by surname):
+
+Names to be announced ...
