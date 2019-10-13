@@ -80,4 +80,6 @@ About the devroom organizers
 The co-organizers of the FOSDEM 2020 Embedded devroom are
 (in alphabetical order by surname):
 
+* Thomas Petazzoni <thomas.petazzoni@bootlin.com>
+
 Names to be announced ...
