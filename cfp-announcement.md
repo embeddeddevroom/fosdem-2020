@@ -1,9 +1,9 @@
-This email is a Call For Participation in the embedded, mobile and
-automotive devroom FOSDEM 2020
+This email is a Call For Participation in the Embedded, Mobile and
+Automotive Devroom of FOSDEM 2020.
 
 
 Devroom date: Saturday February 1st in Brussels, Belgium
-CFP deadline: Friday, 6th December 2019
+CFP deadline: Friday, December 6th 2019
 
 Final speaker confirmation on Friday, December 13th 2019
 
@@ -11,10 +11,10 @@ Final speaker confirmation on Friday, December 13th 2019
 CFP Introduction
 ---------------------------
 
-Embedded software is transforming the world and FOSS embedded software
+Embedded software is transforming the world, and FOSS embedded software
 is leading the way. From automotive to the Internet of Things,
 launching rockets, messing with your phone or automating your toaster,
-small devices, embedded systems, and automatons are everywhere
+small devices, embedded systems, and automatons are everywhere.
 Join in and tell the world about your project!
 
 NB: This year FOSDEM plans to record all presentations, no exceptions.
@@ -23,11 +23,11 @@ Please only propose a talk that you're really able and willing to share.
 Topics Sought
 ------------------------
 
-The embedded devroom seeks topics related to automotive, industrial,
+The Embedded Devroom seeks topics related to automotive, industrial,
 mobile, consumer electronics, autonomous and generally embedded
-systems, either from a professional or hobbyist backgrounds. Topics
+systems, either from a professional or hobbyist background. Topics
 such as operating systems (Linux, free RTOS), hardware platforms (from
-microcontrollers to microprocessors, FPGAs) and software stacks are
+microcontrollers to microprocessors, FPGAs), and software stacks are
 welcome. Related areas are of course of interest as well and our
 definition of "embedded" is elastic.
 
@@ -43,11 +43,11 @@ https://penta.fosdem.org/submission/FOSDEM20
 
 and follow the following rules:
 
-     * If you do not have an account yet, please create one, if you
+     * If you do not have an account yet, please create one; if you
        have submitted a talk in one of the previous years, please re-use
        your old account.
 
-     * Select as the Track "Embedded, mobile and automotive devroom"
+     * Select as the Track "Embedded, Mobile and Automotive devroom"
 
      * Select as the Event Type "Lecture"
 
