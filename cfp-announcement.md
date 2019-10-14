@@ -80,4 +80,9 @@ About the devroom organizers
 The co-organizers of the FOSDEM 2020 Embedded devroom are
 (in alphabetical order by surname):
 
+
+
+
+
+
 Chris Simmonds <chris@2net.co.uk>
