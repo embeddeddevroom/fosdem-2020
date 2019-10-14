@@ -82,5 +82,7 @@ The co-organizers of the FOSDEM 2020 Embedded devroom are
 
 * Walt Miner <wminer@linuxfoundation.org>
 
+* Krzysztof Opasiak <k.opasiak@samsung.com>
+
 * Thomas Petazzoni <thomas.petazzoni@bootlin.com>
 
