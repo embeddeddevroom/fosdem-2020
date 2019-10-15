@@ -86,3 +86,4 @@ The co-organizers of the FOSDEM 2020 Embedded devroom are
 
 * Thomas Petazzoni <thomas.petazzoni@bootlin.com>
 
+* Chris Simmonds <chris@2net.co.uk>
