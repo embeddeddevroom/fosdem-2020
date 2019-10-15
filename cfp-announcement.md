@@ -5,13 +5,13 @@ automotive devroom FOSDEM 2020
 Devroom date: Saturday February 1st in Brussels, Belgium
 CFP deadline: Friday, 6th December 2019
 
-Final speaker confirmation on Friday, December 13th 2018
+Final speaker confirmation on Friday, December 13th 2019
 
 
 CFP Introduction
 ---------------------------
 
-Embedded software is transforming the world, and FOSS embedded software
+Embedded software is transforming the world and FOSS embedded software
 is leading the way. From automotive to the Internet of Things,
 launching rockets, messing with your phone or automating your toaster,
 small devices, embedded systems, and automatons are everywhere
@@ -59,7 +59,7 @@ and follow the following rules:
        of any length you wish, but in both fields, please be concise, but
        clear and descriptive.
 
-     * Indicate whether you seek a 25, or 50 minute slot.
+     * Indicate whether you seek a 25 or 50 minute slot.
 
      * Use the "Links" sub-area to your past work in the field you'd like
        to share.
@@ -80,9 +80,10 @@ About the devroom organizers
 The co-organizers of the FOSDEM 2020 Embedded devroom are
 (in alphabetical order by surname):
 
+* Walt Miner <wminer@linuxfoundation.org>
 
+* Krzysztof Opasiak <k.opasiak@samsung.com>
 
+* Thomas Petazzoni <thomas.petazzoni@bootlin.com>
 
-
-
-Chris Simmonds <chris@2net.co.uk>
+* Chris Simmonds <chris@2net.co.uk>
